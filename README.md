@@ -1,4 +1,4 @@
-# 🧠 Image Classification & Model Performance Analysis  
+# Image Classification & Model Performance Analysis  
 ### *by Monika Damelia Hutapea*
 
 ---
